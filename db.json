@@ -6,7 +6,8 @@
       "price": 500,
       "prefix": "woman",
       "img": [
-        "https://github.com/himahamoda/HN/blob/main/OIP%20(1).jpg?raw=true"
+        "https://github.com/himahamoda/HN/blob/main/OIP%20(1).jpg?raw=true",
+        "https://github.com/himahamoda/HN/blob/284a62d5b195656c59d8da90b99d22af7fc5dfbf/1.jpg?raw=true",
       ],
       "description": "This is a jersey top for women.",
       "max": 4
@@ -16,15 +17,20 @@
       "title": "Regular Fit football shirt",
       "price": 449,
       "prefix": "sport",
-      "img": "https://github.com/himahamoda/HN/blob/284a62d5b195656c59d8da90b99d22af7fc5dfbf/1.jpg?raw=true",
-      "max": 2
+       "img": [
+        "https://github.com/himahamoda/HN/blob/main/OIP%20(1).jpg?raw=true",
+        "https://github.com/himahamoda/HN/blob/284a62d5b195656c59d8da90b99d22af7fc5dfbf/1.jpg?raw=true",
+      ],      "max": 2
     },
     {
       "id": 3,
       "title": "Regular Fit football shirt",
       "price": 449,
       "prefix": "sport",
-      "img": "https://github.com/himahamoda/HN/blob/284a62d5b195656c59d8da90b99d22af7fc5dfbf/1.png?raw=true",
+       "img": [
+            "https://github.com/himahamoda/HN/blob/284a62d5b195656c59d8da90b99d22af7fc5dfbf/1.png?raw=true" ,
+           "https://github.com/himahamoda/HN/blob/284a62d5b195656c59d8da90b99d22af7fc5dfbf/1.jpg?raw=true",
+      ],
       "max": 2
     },
    
@@ -33,8 +39,11 @@
       "title": "Regular Fit football shirt",
       "price": 449,
       "prefix": "sport",
-      "img": "https://github.com/himahamoda/HN/blob/284a62d5b195656c59d8da90b99d22af7fc5dfbf/10.jpg?raw=true",
       "max": 2,
+        "img": [
+          "https://github.com/himahamoda/HN/blob/284a62d5b195656c59d8da90b99d22af7fc5dfbf/10.jpg?raw=true",          
+          "https://github.com/himahamoda/HN/blob/284a62d5b195656c59d8da90b99d22af7fc5dfbf/1.jpg?raw=true",
+      ],
       "availabilityFilter":"In stock"
     },
    
@@ -44,7 +53,9 @@
       "price": 500,
       "prefix": "woman",
       "img": [
-        "https://github.com/himahamoda/HN/blob/284a62d5b195656c59d8da90b99d22af7fc5dfbf/11.jpg?raw=true"
+        "https://github.com/himahamoda/HN/blob/284a62d5b195656c59d8da90b99d22af7fc5dfbf/11.jpg?raw=true",
+                  "https://github.com/himahamoda/HN/blob/284a62d5b195656c59d8da90b99d22af7fc5dfbf/1.jpg?raw=true",
+
       ],
       "description": "This is a jersey top for women.",
       "max": 4
@@ -54,8 +65,11 @@
       "title": "Pile all-in-one suit with ears",
       "price": 500,
       "prefix": "baby",
-      "img": "https://github.com/himahamoda/HN/blob/284a62d5b195656c59d8da90b99d22af7fc5dfbf/12.jpg?raw=true",
-      "max": 2,
+ "img": [
+        "https://github.com/himahamoda/HN/blob/284a62d5b195656c59d8da90b99d22af7fc5dfbf/13.jpeg?raw=true",
+       "https://github.com/himahamoda/HN/blob/284a62d5b195656c59d8da90b99d22af7fc5dfbf/12.jpg?raw=true",
+
+      ],      "max": 2,
       "availabilityFilter":"Out of stock"
 
     },
@@ -65,7 +79,9 @@
       "price": 500,
       "prefix": "woman",
       "img": [
-        "https://github.com/himahamoda/HN/blob/284a62d5b195656c59d8da90b99d22af7fc5dfbf/13.jpeg?raw=true"
+        "https://github.com/himahamoda/HN/blob/284a62d5b195656c59d8da90b99d22af7fc5dfbf/13.jpeg?raw=true",
+       "https://github.com/himahamoda/HN/blob/284a62d5b195656c59d8da90b99d22af7fc5dfbf/12.jpg?raw=true",
+
       ],
       "description": "This is a jersey top for women.",
       "max": 4
@@ -75,8 +91,11 @@
       "title": "Regular Fit football shirt",
       "price": 449,
       "prefix": "sport",
-      "img": "https://github.com/himahamoda/HN/blob/284a62d5b195656c59d8da90b99d22af7fc5dfbf/14.jpeg?raw=true",
-      "max": 2
+ "img": [
+        "https://github.com/himahamoda/HN/blob/284a62d5b195656c59d8da90b99d22af7fc5dfbf/15.jpeg?raw=true",
+       "https://github.com/himahamoda/HN/blob/284a62d5b195656c59d8da90b99d22af7fc5dfbf/12.jpg?raw=true",
+
+      ],      "max": 2
     },
     {
       "id": 9,
@@ -84,7 +103,9 @@
       "price": 500,
       "prefix": "woman",
       "img": [
-        "https://github.com/himahamoda/HN/blob/284a62d5b195656c59d8da90b99d22af7fc5dfbf/15.jpeg?raw=true"
+        "https://github.com/himahamoda/HN/blob/284a62d5b195656c59d8da90b99d22af7fc5dfbf/15.jpeg?raw=true",
+                "https://github.com/himahamoda/HN/blob/284a62d5b195656c59d8da90b99d22af7fc5dfbf/16.jpg?raw=true"
+
       ],
       "description": "This is a jersey top for women.",
       "max": 4
@@ -95,7 +116,9 @@
       "price": 500,
       "prefix": "woman",
       "img": [
-        "https://github.com/himahamoda/HN/blob/284a62d5b195656c59d8da90b99d22af7fc5dfbf/16.jpg?raw=true"
+        "https://github.com/himahamoda/HN/blob/284a62d5b195656c59d8da90b99d22af7fc5dfbf/16.jpg?raw=true",
+                "https://github.com/himahamoda/HN/blob/284a62d5b195656c59d8da90b99d22af7fc5dfbf/2.jpg?raw=true"
+
       ],
       "description": "This is a jersey top for women.",
       "max": 4
@@ -106,7 +129,8 @@
       "price": 500,
       "prefix": "woman",
       "img": [
-        "https://github.com/himahamoda/HN/blob/284a62d5b195656c59d8da90b99d22af7fc5dfbf/2.jpg?raw=true"
+        "https://github.com/himahamoda/HN/blob/284a62d5b195656c59d8da90b99d22af7fc5dfbf/2.jpg?raw=true",
+        "https://github.com/himahamoda/HN/blob/284a62d5b195656c59d8da90b99d22af7fc5dfbf/3.jpg?raw=true",
       ],
       "description": "This is a jersey top for women.",
       "max": 4
@@ -116,7 +140,10 @@
       "title": "Cotton polo shirt",
       "price": 200,
       "prefix": "woman",
-      "img": "https://github.com/himahamoda/HN/blob/284a62d5b195656c59d8da90b99d22af7fc5dfbf/3.jpg?raw=true",
+       "img": [
+         "https://github.com/himahamoda/HN/blob/284a62d5b195656c59d8da90b99d22af7fc5dfbf/3.jpg?raw=true",
+        "https://github.com/himahamoda/HN/blob/284a62d5b195656c59d8da90b99d22af7fc5dfbf/4.jpg?raw=true"
+      ],
       "max": 3
     },
     {
@@ -125,7 +152,9 @@
       "price": 500,
       "prefix": "woman",
       "img": [
-        "https://github.com/himahamoda/HN/blob/284a62d5b195656c59d8da90b99d22af7fc5dfbf/4.jpg?raw=true"
+        "https://github.com/himahamoda/HN/blob/284a62d5b195656c59d8da90b99d22af7fc5dfbf/4.jpg?raw=true",
+                "https://github.com/himahamoda/HN/blob/284a62d5b195656c59d8da90b99d22af7fc5dfbf/5.png?raw=true"
+
       ],
       "description": "This is a jersey top for women.",
       "max": 4
@@ -147,7 +176,9 @@
       "price": 500,
       "prefix": "woman",
       "img": [
-        "https://github.com/himahamoda/HN/blob/284a62d5b195656c59d8da90b99d22af7fc5dfbf/6.jpg?raw=true"
+        "https://github.com/himahamoda/HN/blob/284a62d5b195656c59d8da90b99d22af7fc5dfbf/6.jpg?raw=true",
+                "https://github.com/himahamoda/HN/blob/284a62d5b195656c59d8da90b99d22af7fc5dfbf/5.png?raw=true"
+
       ],
       "description": "This is a jersey top for women.",
       "max": 4
@@ -157,31 +188,44 @@
       "title": "Regular Fit Jersey top",
       "price": 229,
       "prefix": "woman",
-      "img": "https://github.com/himahamoda/HN/blob/284a62d5b195656c59d8da90b99d22af7fc5dfbf/5.png?raw=true",
-      "max": 4
+ "img": [
+        "https://github.com/himahamoda/HN/blob/284a62d5b195656c59d8da90b99d22af7fc5dfbf/6.jpg?raw=true",
+                "https://github.com/himahamoda/HN/blob/284a62d5b195656c59d8da90b99d22af7fc5dfbf/5.png?raw=true"
+
+      ],      "max": 4
     },
     {
       "id": 17,
       "title": "Cotton polo shirt",
       "price": 200,
       "prefix": "woman",
-      "img": "https://github.com/himahamoda/HN/blob/284a62d5b195656c59d8da90b99d22af7fc5dfbf/6.jpg?raw=true",
-      "max": 3
+ "img": [
+        "https://github.com/himahamoda/HN/blob/284a62d5b195656c59d8da90b99d22af7fc5dfbf/6.jpg?raw=true",
+                "https://github.com/himahamoda/HN/blob/284a62d5b195656c59d8da90b99d22af7fc5dfbf/5.png?raw=true"
+
+      ],      "max": 3
     },
     {
       "id": 18,
       "title": "Cotton t-shirt",
       "price": 100,
       "prefix": "wowoman",
-      "img": "https://github.com/himahamoda/HN/blob/284a62d5b195656c59d8da90b99d22af7fc5dfbf/7.png?raw=true",
-      "max": 2
+ "img": [
+        "https://github.com/himahamoda/HN/blob/284a62d5b195656c59d8da90b99d22af7fc5dfbf/6.jpg?raw=true",
+                "https://github.com/himahamoda/HN/blob/284a62d5b195656c59d8da90b99d22af7fc5dfbf/5.png?raw=true"
+
+      ],      "max": 2
     },
     {
       "id": 19,
       "title": "Sweatshirt shorts",
       "price": 300,
       "prefix": "woman",
-      "img": "https://github.com/himahamoda/HN/blob/284a62d5b195656c59d8da90b99d22af7fc5dfbf/8.jpg?raw=true",
+       "img": [
+        "https://github.com/himahamoda/HN/blob/284a62d5b195656c59d8da90b99d22af7fc5dfbf/6.jpg?raw=true",
+      "https://github.com/himahamoda/HN/blob/284a62d5b195656c59d8da90b99d22af7fc5dfbf/8.jpg?raw=true",
+
+      ],
       "max": 3
     },
     {
@@ -189,7 +233,11 @@
       "title": "Velour top",
       "price": 300,
       "prefix": "kids",
-      "img": "https://github.com/himahamoda/HN/blob/main/9.jpg?raw=true",
+        "img": [
+        "https://github.com/himahamoda/HN/blob/284a62d5b195656c59d8da90b99d22af7fc5dfbf/6.jpg?raw=true",
+      "https://github.com/himahamoda/HN/blob/284a62d5b195656c59d8da90b99d22af7fc5dfbf/8.jpg?raw=true",
+"https://github.com/himahamoda/HN/blob/main/9.jpg?raw=true",
+      ],
       "max": 2
     },
     {
@@ -197,7 +245,11 @@
       "title": "Pile all-in-one suit with ears",
       "price": 500,
       "prefix": "baby",
-      "img": "https://eg.hm.com/assets/styles/HNM/10803913/c334b471ad8f564ed1b5dd410c95d94544ee0904/2/image-thumb__1594613__product_listing/5941e37dccc9b0172ac2ab7c266c1cd794cb547f.jpg",
+        "img": [
+        "https://github.com/himahamoda/HN/blob/284a62d5b195656c59d8da90b99d22af7fc5dfbf/6.jpg?raw=true",
+     "https://eg.hm.com/assets/styles/HNM/10803913/c334b471ad8f564ed1b5dd410c95d94544ee0904/2/image-thumb__1594613__product_listing/5941e37dccc9b0172ac2ab7c266c1cd794cb547f.jpg",
+"https://github.com/himahamoda/HN/blob/main/9.jpg?raw=true",
+      ],
       "max": 2
     },
     {
@@ -205,7 +257,11 @@
       "title": "Regular Fit football shirt",
       "price": 449,
       "prefix": "sport",
-      "img": "https://eg.hm.com/assets/styles/HNM/14472541/cb9d35f1480ce5c8b0be39ad7fd35ab9f8004ce0/2/image-thumb__3453052__product_listing/70408034bd9792a93abbc8ad322565337f535e24.jpg",
+       "img": [
+        "https://github.com/himahamoda/HN/blob/284a62d5b195656c59d8da90b99d22af7fc5dfbf/6.jpg?raw=true",
+   "https://eg.hm.com/assets/styles/HNM/14472541/cb9d35f1480ce5c8b0be39ad7fd35ab9f8004ce0/2/image-thumb__3453052__product_listing/70408034bd9792a93abbc8ad322565337f535e24.jpg",
+"https://github.com/himahamoda/HN/blob/main/9.jpg?raw=true",
+      ],
       "max": 2
     }
   ],
