@@ -6,7 +6,7 @@
       "price": 500,
       "prefix": "woman",
       "img": [
-        "https://github.com/himahamoda/HN/blob/d02ad289019b1ade1cd579641b1b85a9c9849e3a/1%20(1).jpg?raw=true",
+        "https://github.com/himahamoda/HN/blob/67e54b0ba5959e30ff1cda0fc65c6aec955135ae/Images/Weddingsuit.jpg?raw=true",
         "https://github.com/himahamoda/HN/blob/963b19157f2e4df631371b9dc9037cbc9e824782/1.png?raw=true"
       ],
       "description": "This is a jersey top for women.",
@@ -18,7 +18,7 @@
       "price": 449,
       "prefix": "sport",
       "img": [
-        "https://github.com/himahamoda/HN/blob/963b19157f2e4df631371b9dc9037cbc9e824782/2.jpg?raw=true",
+        "https://github.com/himahamoda/HN/blob/67e54b0ba5959e30ff1cda0fc65c6aec955135ae/Images/babybluesuit.jpg?raw=true",
         "https://github.com/himahamoda/HN/blob/963b19157f2e4df631371b9dc9037cbc9e824782/Images/2.jpg?raw=true"
       ],
       "max": 2
@@ -29,7 +29,7 @@
       "price": 449,
       "prefix": "sport",
       "img": [
-        "https://github.com/himahamoda/HN/blob/963b19157f2e4df631371b9dc9037cbc9e824782/3.jpg?raw=true",
+        "https://github.com/himahamoda/HN/blob/67e54b0ba5959e30ff1cda0fc65c6aec955135ae/Images/greensuit.jpg?raw=true",
         "https://github.com/himahamoda/HN/blob/963b19157f2e4df631371b9dc9037cbc9e824782/Images/3.jpg?raw=true"
       ],
       "max": 2
@@ -41,7 +41,7 @@
       "prefix": "sport",
       "max": 2,
       "img": [
-        "https://github.com/himahamoda/HN/blob/963b19157f2e4df631371b9dc9037cbc9e824782/4.jpg?raw=true",
+        "https://github.com/himahamoda/HN/blob/67e54b0ba5959e30ff1cda0fc65c6aec955135ae/Images/ofwhitesuit.jpg?raw=true",
         "https://github.com/himahamoda/HN/blob/963b19157f2e4df631371b9dc9037cbc9e824782/Images/4.jpg?raw=true"
       ],
       "availabilityFilter": "In stock"
@@ -52,7 +52,7 @@
       "price": 500,
       "prefix": "woman",
       "img": [
-        "https://github.com/himahamoda/HN/blob/963b19157f2e4df631371b9dc9037cbc9e824782/5.jpg?raw=true",
+        "https://github.com/himahamoda/HN/blob/67e54b0ba5959e30ff1cda0fc65c6aec955135ae/Images/weddingsuit2.jpg?raw=true",
         "https://github.com/himahamoda/HN/blob/963b19157f2e4df631371b9dc9037cbc9e824782/Images/6.jpg?raw=true"
       ],
       "description": "This is a jersey top for women.",
@@ -297,7 +297,7 @@
       "price": 300,
       "prefix": "kids",
       "img": [
-        "https://github.com/himahamoda/HN/blob/963b19157f2e4df631371b9dc9037cbc9e824782/13.jpeg?raw=true"
+        "https://github.com/himahamoda/HN/blob/67e54b0ba5959e30ff1cda0fc65c6aec955135ae/Images/Pantsforshow.jpg?raw=true"
        
       ],
       "max": 2
@@ -318,7 +318,7 @@
       "price": 300,
       "prefix": "kids",
       "img": [
-        "https://github.com/himahamoda/HN/blob/d02ad289019b1ade1cd579641b1b85a9c9849e3a/1%20(1).jpg?raw=true"
+        "https://github.com/himahamoda/HN/blob/67e54b0ba5959e30ff1cda0fc65c6aec955135ae/Images/Pantsforshow.jpg?raw=true"
       ],
       "max": 2
     }
